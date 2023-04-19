@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oussamaelliazidi
-- 👀 I’m interested in an Electrical Enginering Student
+- 👀 I’m  an Electrical Enginering Student
 - 🌱 I’m currently learning Web Development (HTML, CSS, JS, PHP...)
 - 💞️ I’m looking to collaborate on building e-commerce websites
 - 📫 How to reach me ...Just write me on GitHub
